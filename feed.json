@@ -9,5 +9,35 @@
         "name": "CoffeeLover"
     },
     "items": [
+        {
+            "id": "https://amo13.github.io/ein-post-mit-dem-block-editor.html",
+            "url": "https://amo13.github.io/ein-post-mit-dem-block-editor.html",
+            "title": "Ein Post mit dem Block Editor",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at&hellip;",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at ex vel, finibus placerat erat. Aenean in erat blandit, mattis massa sit amet, vulputate ex. Nullam ut nisi dignissim, elementum massa vitae, rutrum tellus. Pellentesque tempor consequat orci, ut pellentesque quam posuere eu. Praesent elementum, diam id interdum dapibus, justo est venenatis ligula, sit amet volutpat ex nisl id turpis. Quisque consectetur rhoncus massa et vestibulum. Nam ac arcu augue. Donec consequat ipsum sem, eu pretium dolor tempor a.\n  </p>\n\n  <p>\n    &nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://img.inconvergent.net/plot/\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://amo13.github.io/media/posts/3/21-71dddd53.jpg\" height=\"990\" width=\"1400\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://amo13.github.io/media/posts/3/responsive/21-71dddd53-xs.jpg 640w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-sm.jpg 768w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-md.jpg 1024w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-lg.jpg 1366w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-xl.jpg 1600w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-2xl.jpg 1920w\">\n      </a>\n      \n    </figure>\n\n  <ul>\n    <li>Listeneintrag 1</li><li>Eintrag 2</li><li>Eintrag 3</li>\n  </ul>",
+            "image": "https://amo13.github.io/media/posts/3/21-9a08dd30.jpg",
+            "author": {
+                "name": "CoffeeLover"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-07T19:21:22+01:00",
+            "date_modified": "2025-12-07T19:21:22+01:00"
+        },
+        {
+            "id": "https://amo13.github.io/ein-post-mit-markdown-geschrieben.html",
+            "url": "https://amo13.github.io/ein-post-mit-markdown-geschrieben.html",
+            "title": "Ein Post mit Markdown geschrieben",
+            "summary": "Überschrift Level 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl&hellip;",
+            "content_html": "<h1 id=\"überschrift-level-1\">Überschrift Level 1</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at ex vel, finibus placerat erat. Aenean in erat blandit, mattis massa sit amet, vulputate ex. Nullam ut nisi dignissim, elementum massa vitae, rutrum tellus. Pellentesque tempor consequat orci, ut pellentesque quam posuere eu. Praesent elementum, diam id interdum dapibus, justo est venenatis ligula, sit amet volutpat ex nisl id turpis. Quisque consectetur rhoncus massa et vestibulum. Nam ac arcu augue. Donec consequat ipsum sem, eu pretium dolor tempor a. </p><h2 id=\"überschrift-level-2\">Überschrift Level 2</h2>\n",
+            "image": "https://amo13.github.io/media/posts/2/23-ink006.jpg",
+            "author": {
+                "name": "CoffeeLover"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-07T19:18:23+01:00",
+            "date_modified": "2025-12-07T19:18:28+01:00"
+        }
     ]
 }

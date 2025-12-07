@@ -3,10 +3,76 @@
     <title>I like coffee</title>
     <link href="https://amo13.github.io/feed.xml" rel="self" />
     <link href="https://amo13.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-12-07T19:21:22+01:00</updated>
     <author>
         <name>CoffeeLover</name>
     </author>
     <id>https://amo13.github.io</id>
 
+    <entry>
+        <title>Ein Post mit dem Block Editor</title>
+        <author>
+            <name>CoffeeLover</name>
+        </author>
+        <link href="https://amo13.github.io/ein-post-mit-dem-block-editor.html"/>
+        <id>https://amo13.github.io/ein-post-mit-dem-block-editor.html</id>
+        <media:content url="https://amo13.github.io/media/posts/3/21-9a08dd30.jpg" medium="image" />
+
+        <updated>2025-12-07T19:21:22+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://amo13.github.io/media/posts/3/21-9a08dd30.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://amo13.github.io/media/posts/3/21-9a08dd30.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at ex vel, finibus placerat erat. Aenean in erat blandit, mattis massa sit amet, vulputate ex. Nullam ut nisi dignissim, elementum massa vitae, rutrum tellus. Pellentesque tempor consequat orci, ut pellentesque quam posuere eu. Praesent elementum, diam id interdum dapibus, justo est venenatis ligula, sit amet volutpat ex nisl id turpis. Quisque consectetur rhoncus massa et vestibulum. Nam ac arcu augue. Donec consequat ipsum sem, eu pretium dolor tempor a.
+  </p>
+
+  <p>
+    &nbsp;
+  </p>
+
+    <figure class="post__image post__image--wide">
+      <a href="https://img.inconvergent.net/plot/" target="_blank">
+        <img loading="lazy" src="https://amo13.github.io/media/posts/3/21-71dddd53.jpg" height="990" width="1400" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://amo13.github.io/media/posts/3/responsive/21-71dddd53-xs.jpg 640w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-sm.jpg 768w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-md.jpg 1024w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-lg.jpg 1366w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-xl.jpg 1600w ,https://amo13.github.io/media/posts/3/responsive/21-71dddd53-2xl.jpg 1920w">
+      </a>
+      
+    </figure>
+
+  <ul>
+    <li>Listeneintrag 1</li><li>Eintrag 2</li><li>Eintrag 3</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ein Post mit Markdown geschrieben</title>
+        <author>
+            <name>CoffeeLover</name>
+        </author>
+        <link href="https://amo13.github.io/ein-post-mit-markdown-geschrieben.html"/>
+        <id>https://amo13.github.io/ein-post-mit-markdown-geschrieben.html</id>
+        <media:content url="https://amo13.github.io/media/posts/2/23-ink006.jpg" medium="image" />
+
+        <updated>2025-12-07T19:18:23+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://amo13.github.io/media/posts/2/23-ink006.jpg" alt="" />
+                    Überschrift Level 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://amo13.github.io/media/posts/2/23-ink006.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 id="überschrift-level-1">Überschrift Level 1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum eros eu felis sodales lacinia sed sed nisl. Donec tempus odio vel pellentesque tempus. Sed ultricies nec lectus vel tincidunt. Nunc iaculis varius purus vitae volutpat. Mauris non vehicula tortor. Donec nisl est, ultrices at ex vel, finibus placerat erat. Aenean in erat blandit, mattis massa sit amet, vulputate ex. Nullam ut nisi dignissim, elementum massa vitae, rutrum tellus. Pellentesque tempor consequat orci, ut pellentesque quam posuere eu. Praesent elementum, diam id interdum dapibus, justo est venenatis ligula, sit amet volutpat ex nisl id turpis. Quisque consectetur rhoncus massa et vestibulum. Nam ac arcu augue. Donec consequat ipsum sem, eu pretium dolor tempor a. </p><h2 id="überschrift-level-2">Überschrift Level 2</h2>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
