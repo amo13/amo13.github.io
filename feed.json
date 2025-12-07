@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "I like coffee",
+    "description": "",
+    "home_page_url": "https://amo13.github.io",
+    "feed_url": "https://amo13.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CoffeeLover"
+    },
+    "items": [
+    ]
+}
